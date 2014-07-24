@@ -1,0 +1,95 @@
+# Exported from Fuse 1.1.0
+
+newmtl fuse_material
+illum 4
+Kd 0.90 0.77 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Ka fuse_material.png
+map_Kd fuse_material.png
+
+newmtl Hat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_Hat_diffuse.png
+map_Ks clothing1_Hat_specular.png
+bump clothing1_Hat_normal.png
+map_Ns clothing1_Hat_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_Bottom_diffuse.png
+map_Ks clothing1_Bottom_specular.png
+bump clothing1_Bottom_normal.png
+map_Ns clothing1_Bottom_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_Top_diffuse.png
+map_Ks clothing1_Top_specular.png
+bump clothing1_Top_normal.png
+map_Ns clothing1_Top_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_Shoes_diffuse.png
+map_Ks clothing1_Shoes_specular.png
+bump clothing1_Shoes_normal.png
+map_Ns clothing1_Shoes_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_Moustache_diffuse.png
+map_Ks clothing1_Moustache_specular.png
+bump clothing1_Moustache_normal.png
+map_Ns clothing1_Moustache_gloss.png
+
+newmtl BodyParts
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_BodyParts_diffuse.png
+map_Ks clothing1_BodyParts_specular.png
+bump clothing1_BodyParts_normal.png
+map_Ns clothing1_BodyParts_gloss.png
+
+newmtl Eyewear
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd clothing1_Eyewear_diffuse.png
+map_Ks clothing1_Eyewear_specular.png
+bump clothing1_Eyewear_normal.png
+map_Ns clothing1_Eyewear_gloss.png
+

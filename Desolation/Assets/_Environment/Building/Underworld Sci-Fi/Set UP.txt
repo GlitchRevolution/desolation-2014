@@ -1,0 +1,1 @@
+For best performance lightmap all static objects and set shadow distance to 0 
